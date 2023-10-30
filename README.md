@@ -20,9 +20,4 @@
 ![image](https://github.com/oussamaelaji/Oussama-EL-AJI-enset-adria-test/assets/64083610/428d54c5-75f9-4239-b2da-98c9337248ae)
 ![image](https://github.com/oussamaelaji/Oussama-EL-AJI-enset-adria-test/assets/64083610/64b690db-9b88-45bd-8331-f7cdbf5cf98a)
 ![image](https://github.com/oussamaelaji/Oussama-EL-AJI-enset-adria-test/assets/64083610/91445523-3791-4f99-9005-ea9441302d15)
-![image](https://github.com/oussamaelaji/Oussama-EL-AJI-enset-adria-test/assets/64083610/b190f450-4ed2-4845-bbc1-1ee11f25e5e0)
-
-
-
-
-
+![image](https://github.com/oussamaelaji/Oussama-EL-AJI-enset-adria-test/assets/64083610/f3226e2e-aa35-446e-9e5a-128c30c3ff4f)
