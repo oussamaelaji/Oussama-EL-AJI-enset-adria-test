@@ -19,34 +19,4 @@ public class OderRestController {
     public OderRestController(TransferRepository transferRepository) {
         this.transferRepository = transferRepository;
     }
-
-
-    @GetMapping("/fullOrder")
-    public List<Transfer> getOrders() {
-        List<Transfer> transfers = transferRepository.findAll();
-//        List<Client> customers = clientRestClientService.allCustomers().getContent().stream().toList();
-        return transfers;
-//        Random random = new Random();
-//        transfers.forEach(o -> {
-//            o.setClient(customers.get(random.nextInt(customers.size())));
-//            o.getProductItems()
-//                    .forEach(pi -> {
-//                        Product product = walletRestClientService.productById(pi.getProductId());
-//                        pi.setProduct(product);
-//                    });
-//        });
-//        return transfers;
-    }
-//
-//    @GetMapping("/fullOrder/{id}")
-//    public Transfer getOrder(@PathVariable Long id) {
-//        Transfer transfer = transferRepository.findById(id).get();
-//        Customer customer = clientRestClientService.customerById(transfer.getCustomerId());
-//        transfer.setCustomer(customer);
-//        transfer.getProductItems().forEach(pi -> {
-//            Product product = walletRestClientService.productById(pi.getProductId());
-//            pi.setProduct(product);
-//        });
-//        return transfer;
-//    }
 }
